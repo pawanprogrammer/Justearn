@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "168214001290",
+    "firebase_url": "https://justearn-6e647.firebaseio.com",
+    "project_id": "justearn-6e647",
+    "storage_bucket": "justearn-6e647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168214001290:android:23b75c507a9141d4",
+        "android_client_info": {
+          "package_name": "com.apkglobal.justearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168214001290-7veo4e1t50dcktuig6o7obvcokses1q2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apkglobal.justearn",
+            "certificate_hash": "cec3f4b3ce9560b6a8ed377bf31d71b2af4b0988"
+          }
+        },
+        {
+          "client_id": "168214001290-9j8gmoumv2aqiorg8alnii6657n88kko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWANkOHRg359qKWccVft2cR1NMj_axfXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168214001290-9j8gmoumv2aqiorg8alnii6657n88kko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
